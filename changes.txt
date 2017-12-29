@@ -18,6 +18,7 @@ unreleased, v1.4.0
 - Added sideci misspellcheck
 - ouput my day
 - what happend? happend?
+- a new wong written text
 
 22 Mar 2017, v1.3.6
 - Added deprecate and compiler warnings @Rotzbua
